@@ -109,8 +109,3 @@ pre-commit run --all-files
 - See code comments for implementation details and rationale.
 
 ---
-
-## About the Author
-
-**Himanshu Ahuja**  
-Data Scientist & ML Engineer passionate about building robust, production-ready ML solutions. Connect on [LinkedIn](https://www.linkedin.com/in/your-linkedin/) or view more projects on [GitHub](https://github.com/iamhimanshuahuja).
